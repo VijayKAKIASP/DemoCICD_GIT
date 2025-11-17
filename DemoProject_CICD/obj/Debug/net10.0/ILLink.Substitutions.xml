@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="DemoProject_CICD">
+    <resource name="FSharpSignatureData.DemoProject_CICD" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.DemoProject_CICD" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.DemoProject_CICD" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.DemoProject_CICD" action="remove"></resource>
+    <resource name="FSharpOptimizationData.DemoProject_CICD" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.DemoProject_CICD" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.DemoProject_CICD" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.DemoProject_CICD" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.DemoProject_CICD" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.DemoProject_CICD" action="remove"></resource>
+  </assembly>
+</linker>
